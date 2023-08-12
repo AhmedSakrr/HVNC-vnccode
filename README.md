@@ -47,6 +47,7 @@ build.exe will periodically connect to your vncviewer.exe server
 For reconnect remove desktop name from r.txt file
 
 ==================================================================================
+13-Aug-2023 >> https://github.com/vnccode/HVNC
 HVNC hidden remote VNC desktop with filemanager and backconnect
 -
 HVNC hidden remote VNC desktop with backconnect
