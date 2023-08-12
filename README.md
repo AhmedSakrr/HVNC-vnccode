@@ -48,8 +48,8 @@ For reconnect remove desktop name from r.txt file
 
 ==================================================================================
 HVNC hidden remote VNC desktop with filemanager and backconnect
-HVNC
-HVNC , hidden remote VNC desktop with backconnect
+-
+HVNC hidden remote VNC desktop with backconnect
 
 Direct mode
 
